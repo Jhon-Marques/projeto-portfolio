@@ -110,3 +110,14 @@ section#ficha h1 {
 #social a:hover {
   color: var(--destaque-inverso);
 }
+
+#detalhes {
+  grid-column: 2;
+}
+
+article {
+  background-color: var(--fundo-card);
+  padding: 20px;
+  margin-bottom: 20px;
+  border-radius: 8px;
+}
